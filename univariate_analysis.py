@@ -5,7 +5,7 @@ import re
 from collections import Counter
 
 # Source data file
-DATA_FILE = 'df_limpio.csv'
+DATA_FILE = 'df_tratado.csv'
 OUTPUT_DIR = 'outputs'
 CAT_DIR = os.path.join(OUTPUT_DIR, 'categorical')
 NUM_DIR = os.path.join(OUTPUT_DIR, 'numeric')
