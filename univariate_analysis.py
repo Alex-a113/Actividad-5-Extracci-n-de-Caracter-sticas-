@@ -4,7 +4,8 @@ import os
 import re
 from collections import Counter
 
-DATA_FILE = 'iqr.csv'
+# Source data file
+DATA_FILE = 'df_limpio.csv'
 OUTPUT_DIR = 'outputs'
 CAT_DIR = os.path.join(OUTPUT_DIR, 'categorical')
 NUM_DIR = os.path.join(OUTPUT_DIR, 'numeric')
