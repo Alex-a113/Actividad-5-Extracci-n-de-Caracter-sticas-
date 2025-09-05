@@ -1,0 +1,11 @@
+variable,n,n_unique,top,top_freq,missing_%
+host_response_rate,568,22,100%,511,10.69
+host_acceptance_rate,601,54,100%,260,5.5
+price,496,178,$90.00,11,22.01
+host_location,612,25,"Washington, DC",567,3.77
+host_response_time,568,4,within an hour,406,10.69
+host_is_superhost,630,2,t,371,0.94
+host_identity_verified,635,2,t,526,0.16
+neighbourhood_cleansed,635,38,"Union Station, Stanton Park, Kingman Park",80,0.16
+room_type,635,2,Entire home/apt,515,0.16
+first_review,625,516,21/01/2017,6,1.73
